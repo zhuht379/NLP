@@ -12,6 +12,15 @@
 4.https://github.com/jeffery0628/text_classification        
 使用rnn,lstm,gru,fasttext,textcnn,dpcnn,rnn-att,lstm-att,bert,bert-cnn,bert-rnn,bert-rcnn,han,xlnet等等做文本分类，以及对比
 
+词向量：
+
+1.https://github.com/zlsdu/Word-Embedding
+
+FastText:
+1.https://fasttext.cc/docs/en/supervised-tutorial.html
+2.https://blog.csdn.net/feilong_csdn/article/details/88655927
+3.https://github.com/facebookresearch/fastText
+
 实体识别：
 1.https://mp.weixin.qq.com/s/5-B4IRQ3Y_sTdryu4dNuNQ              https://github.com/LeeSureman/Flat-Lattice-Transformer
 
