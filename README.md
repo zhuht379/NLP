@@ -66,5 +66,7 @@ Bert:
 
 3.各种注意力机制：encoder-decoder,self-attention,multi-head attention的区别
 
+4.https://www.isclab.org.cn/wp-content/uploads/2018/12/Transformer%E4%B8%AD%E7%9A%84Multi-Head-Attention-%E7%8E%8B%E7%9D%BF%E6%80%A1-2018.12.9-19_00_00.pdf
+
 经验：
 1.Word Embedding 如何处理未登录词：https://www.zhihu.com/question/308543084
