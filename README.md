@@ -24,6 +24,11 @@ FastText:
 实体识别：
 1.https://mp.weixin.qq.com/s/5-B4IRQ3Y_sTdryu4dNuNQ              https://github.com/LeeSureman/Flat-Lattice-Transformer
 
+情感分析：
+
+1.https://pypi.org/project/cnsenti/
+
+
 BiLSTM-CRF
 参考资料：
 https://github.com/scofield7419/sequence-labeling-BiLSTM-CRF
