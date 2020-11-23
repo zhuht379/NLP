@@ -56,7 +56,10 @@ https://github.com/macanv/BERT-BiLSTM-CRF-NER
 Transformer
 参考资料：
 1.https://mp.weixin.qq.com/s/g6EliR8W1AgpLm8QCcxncw
+
 2.https://blog.csdn.net/BigDataDigest/article/details/86088814?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-1.channel_param&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-1.channel_param
+
+3.https://github.com/kimiyoung/transformer-xl/tree/master/pytorc
 
 Bert:
 参考资料：
