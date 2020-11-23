@@ -46,6 +46,8 @@ NLP中的对抗训练：
 
 1. https://github.com/zingp/NLP/tree/master/P007PytorchPointerGeneratorNetwork     对应的优化算法：BeamSearch优化思路
 
+2. https://www.cnblogs.com/zingp/p/11571593.html
+
 BiLSTM-CRF
 参考资料：
 https://github.com/scofield7419/sequence-labeling-BiLSTM-CRF
