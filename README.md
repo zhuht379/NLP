@@ -36,6 +36,11 @@ FastText:
 
 1.https://pypi.org/project/cnsenti/
 
+NLP中的对抗训练：
+
+1.https://zhuanlan.zhihu.com/p/91269728
+
+2.https://mp.weixin.qq.com/s/bGtNWqbVnH8fNVIuOiR_Gw
 
 BiLSTM-CRF
 参考资料：
