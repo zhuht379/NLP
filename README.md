@@ -12,6 +12,10 @@
 4.https://github.com/jeffery0628/text_classification        
 使用rnn,lstm,gru,fasttext,textcnn,dpcnn,rnn-att,lstm-att,bert,bert-cnn,bert-rnn,bert-rcnn,han,xlnet等等做文本分类，以及对比
 
+分词：
+
+1.https://github.com/fastnlp/fastHan/
+
 词向量：
 
 1.https://github.com/zlsdu/Word-Embedding
