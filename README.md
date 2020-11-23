@@ -17,11 +17,15 @@
 1.https://github.com/zlsdu/Word-Embedding
 
 FastText:
+
 1.https://fasttext.cc/docs/en/supervised-tutorial.html
+
 2.https://blog.csdn.net/feilong_csdn/article/details/88655927
+
 3.https://github.com/facebookresearch/fastText
 
 实体识别：
+
 1.https://mp.weixin.qq.com/s/5-B4IRQ3Y_sTdryu4dNuNQ              https://github.com/LeeSureman/Flat-Lattice-Transformer
 
 情感分析：
@@ -56,8 +60,11 @@ Bert:
 
 关于Transformer和BERT的面试题：
 
-https://mp.weixin.qq.com/s/S3j0erS_5fAE9bJ7qeutOA
-https://mp.weixin.qq.com/s/tyuirRUpFeW9bcNI96DvHA
+1.https://mp.weixin.qq.com/s/S3j0erS_5fAE9bJ7qeutOA
+
+2.https://mp.weixin.qq.com/s/tyuirRUpFeW9bcNI96DvHA
+
+3.各种注意力机制：encoder-decoder,self-attention,multi-head attention的区别
 
 经验：
 1.Word Embedding 如何处理未登录词：https://www.zhihu.com/question/308543084
