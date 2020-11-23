@@ -13,7 +13,7 @@ from importlib import import_module
 import argparse
 
 parser = argparse.ArgumentParser(description='Chinese Text Classification')
-parser.add_argument('--model', type=str,  default='FastText', help='choose a model: TextCNN, TextRNN, FastText, TextRCNN, TextRNN_Att, DPCNN, Transformer')
+parser.add_argument('--model', type=str,  default='TextRNN', help='choose a model: TextCNN, TextRNN, FastText, TextRCNN, TextRNN_Att, DPCNN, Transformer')
 parser.add_argument('--embedding', default='pre_trained', type=str, help='random or pre_trained')
 parser.add_argument('--word', default=False, type=bool, help='True for word, False for char')
 args = parser.parse_args()
@@ -39,7 +39,7 @@ if __name__ == '__main__':
     保证每次训练时的初始化时确定的。
     在神经网络中，参数默认是进行随机初始化的，不同的初始化参数往往导致不同的结果，当得到比较好的结果时，
     我们通常希望这个结果是可以复现的，在pytorch中，通过设置随机数种子也可以达到这样的目的
-
+    
     """
 
     np.random.seed(1)
@@ -56,6 +56,7 @@ if __name__ == '__main__':
     time_dif = get_time_dif(start_time)
     print("Time usage:", time_dif)
 
+
     # train
     config.n_vocab = len(vocab)
     model = x.Model(config).to(config.device)
@@ -63,3 +64,4 @@ if __name__ == '__main__':
         init_network(model)
     print(model.parameters)
     train(config, model, train_iter, dev_iter, test_iter)
+
