@@ -50,13 +50,9 @@ https://pytorch.org/tutorials/beginner/nlp/advanced_tutorial.html#bi-lstm-condit
 
 3.https://zhuanlan.zhihu.com/p/97858739
 
-BiLSTM-CNN-CRF
-参考资料：
-https://github.com/UKPLab/emnlp2017-bilstm-cnn-crf
 
-Transformer-CRF
-参考资料：
-https://github.com/phychaos/transformer_crf
+
+Transformer-CRF：    https://github.com/phychaos/transformer_crf
 
 BERT-BiLSTM-CRF
 参考资料：
