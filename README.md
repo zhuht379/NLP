@@ -7,9 +7,7 @@
 
 2.https://state-of-art.top/2018/11/28/torchtext%E8%AF%BB%E5%8F%96%E6%96%87%E6%9C%AC%E6%95%B0%E6%8D%AE%E9%9B%86/
 
-3.https://github.com/graykode/nlp-tutorial
-
-4.https://github.com/jeffery0628/text_classification        
+3.https://github.com/jeffery0628/text_classification        
 使用rnn,lstm,gru,fasttext,textcnn,dpcnn,rnn-att,lstm-att,bert,bert-cnn,bert-rnn,bert-rcnn,han,xlnet等等做文本分类，以及对比
 
 FastHan：https://github.com/fastnlp/fastHan/
