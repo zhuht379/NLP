@@ -12,9 +12,7 @@
 
 FastHan：https://github.com/fastnlp/fastHan/
 
-词向量：
-
-1.https://github.com/zlsdu/Word-Embedding
+词向量：https://github.com/zlsdu/Word-Embedding
 
 FastText:  https://fasttext.cc/docs/en/supervised-tutorial.html
 
@@ -26,9 +24,7 @@ fastNLP 是一款轻量级的自然语言处理（NLP）工具包  ：
 https://fastnlp.readthedocs.io/zh/latest/
 
 
-情感分析：
-
-1.https://pypi.org/project/cnsenti/
+情感分析：https://pypi.org/project/cnsenti/
 
 NLP中的对抗训练：
 
