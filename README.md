@@ -51,12 +51,7 @@ https://pytorch.org/tutorials/beginner/nlp/advanced_tutorial.html#bi-lstm-condit
 3.https://zhuanlan.zhihu.com/p/97858739
 
 
-
 Transformer-CRF：    https://github.com/phychaos/transformer_crf
-
-BERT-BiLSTM-CRF
-参考资料：
-https://github.com/macanv/BERT-BiLSTM-CRF-NER
 
 Transformer
 参考资料：
@@ -66,7 +61,7 @@ Transformer
 
 3.https://github.com/kimiyoung/transformer-xl/tree/master/pytorc
 
-Bert:
+Bert（服务化项目）:
 参考资料：
 1.https://github.com/xmxoxo/BERT-train2deploy
 
