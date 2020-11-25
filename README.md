@@ -56,8 +56,10 @@ BiLstm-crf原理和代码实现：
 
 https://pytorch.org/tutorials/beginner/nlp/advanced_tutorial.html#bi-lstm-conditional-random-field-discussion
 
+最后一层利用CRF来学习一个最优路径。Bi-LSTM layer的输出维度是tag size，这就相当于是每个词[公式]映射到tag的发射概率值，设Bi-LSTM的输出矩阵为[公式]，其中[公式]代表词[公式]映射到[公式]的非归一化概率。对于CRF来说，我们假定存在一个转移矩阵[公式]，则[公式]代表[公式]转移到[公式]的转移概率。
+
 https://github.com/visionshao/LSTM-CRF
-https://zhuanlan.zhihu.com/p/27338210
+
 
 1.https://zhuanlan.zhihu.com/p/162885285
 
