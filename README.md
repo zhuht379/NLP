@@ -12,21 +12,17 @@
 4.https://github.com/jeffery0628/text_classification        
 使用rnn,lstm,gru,fasttext,textcnn,dpcnn,rnn-att,lstm-att,bert,bert-cnn,bert-rnn,bert-rcnn,han,xlnet等等做文本分类，以及对比
 
-分词：
-
-1.https://github.com/fastnlp/fastHan/
+FastHan：https://github.com/fastnlp/fastHan/
 
 词向量：
 
 1.https://github.com/zlsdu/Word-Embedding
 
-FastText:
+FastText:  https://fasttext.cc/docs/en/supervised-tutorial.html
 
-1.https://fasttext.cc/docs/en/supervised-tutorial.html
+1.https://blog.csdn.net/feilong_csdn/article/details/88655927
 
-2.https://blog.csdn.net/feilong_csdn/article/details/88655927
-
-3.https://github.com/facebookresearch/fastText  
+2.https://github.com/facebookresearch/fastText  
 
 fastNLP 是一款轻量级的自然语言处理（NLP）工具包  ：
 https://fastnlp.readthedocs.io/zh/latest/
