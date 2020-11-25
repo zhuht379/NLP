@@ -53,7 +53,11 @@ BiLSTM-CRF
 https://github.com/scofield7419/sequence-labeling-BiLSTM-CRF
 
 BiLstm-crf原理和代码实现：
+
+https://pytorch.org/tutorials/beginner/nlp/advanced_tutorial.html#bi-lstm-conditional-random-field-discussion
+
 https://github.com/visionshao/LSTM-CRF
+https://zhuanlan.zhihu.com/p/27338210
 
 1.https://zhuanlan.zhihu.com/p/162885285
 
