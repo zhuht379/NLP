@@ -53,6 +53,8 @@ BiLSTM-CRF
 https://github.com/scofield7419/sequence-labeling-BiLSTM-CRF
 
 BiLstm-crf原理和代码实现：
+https://github.com/visionshao/LSTM-CRF
+
 1.https://zhuanlan.zhihu.com/p/162885285
 
 2.https://zhuanlan.zhihu.com/p/97829287
