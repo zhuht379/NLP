@@ -48,17 +48,11 @@ NLP中的对抗训练：
 
 2. https://www.cnblogs.com/zingp/p/11571593.html
 
-BiLSTM-CRF
-参考资料：
-https://github.com/scofield7419/sequence-labeling-BiLSTM-CRF
+
 
 BiLstm-crf原理和代码实现：
 
 https://pytorch.org/tutorials/beginner/nlp/advanced_tutorial.html#bi-lstm-conditional-random-field-discussion
-
-
-https://github.com/visionshao/LSTM-CRF
-
 
 1.https://zhuanlan.zhihu.com/p/162885285
 
