@@ -52,6 +52,13 @@ BiLSTM-CRF
 参考资料：
 https://github.com/scofield7419/sequence-labeling-BiLSTM-CRF
 
+BiLstm-crf原理和代码实现：
+1.https://zhuanlan.zhihu.com/p/162885285
+
+2.https://zhuanlan.zhihu.com/p/97829287
+
+3.https://zhuanlan.zhihu.com/p/97858739
+
 BiLSTM-CNN-CRF
 参考资料：
 https://github.com/UKPLab/emnlp2017-bilstm-cnn-crf
