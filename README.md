@@ -26,11 +26,11 @@ FastText:
 
 2.https://blog.csdn.net/feilong_csdn/article/details/88655927
 
-3.https://github.com/facebookresearch/fastText
+3.https://github.com/facebookresearch/fastText  
 
-实体识别：
+fastNLP 是一款轻量级的自然语言处理（NLP）工具包  ：
+https://fastnlp.readthedocs.io/zh/latest/
 
-1.https://mp.weixin.qq.com/s/5-B4IRQ3Y_sTdryu4dNuNQ              https://github.com/LeeSureman/Flat-Lattice-Transformer
 
 情感分析：
 
