@@ -77,3 +77,5 @@ Bert（服务化项目）:
 
 经验：
 1.Word Embedding 如何处理未登录词：https://www.zhihu.com/question/308543084
+
+深入理解lstm及其变种gru： https://zhuanlan.zhihu.com/p/34203833
